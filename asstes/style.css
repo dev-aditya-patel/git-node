@@ -3,3 +3,63 @@ body{
     color: white;
     padding-left: 10px;
 }
+/* styles.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav {
+    background-color: #f4f4f4;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    padding: 20px;
+    color: #333;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #ddd;
+}
+
+/* Section styles */
+section {
+    padding: 40px;
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
